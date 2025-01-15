@@ -13,8 +13,8 @@ This Bash script allows users to manage simple text-based notes. The script supp
 # Requirements
 - A Unix based environment with Bash installed.
 
-- Ensure the script file (script.sh) has execute permissions. You can grant execute permissions by running:
-`chmod +x script.sh`
+- Ensure the script file (note.sh) has execute permissions. You can grant execute permissions by running:
+`chmod +x note.sh`
 
 # Usage
 ### Add a Note
